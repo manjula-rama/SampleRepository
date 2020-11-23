@@ -1,0 +1,7 @@
+id,userid,firstname,lastname,age,Active,email,location
+hgtjhnj
+uyurth
+1,jdoe,John,Doe,23,y,john.doe@company.com,India
+2,aphonkins,Adam,Hopkins,20,y,adam.hopkins@company.com,India
+3,rgoon,Roger,Goon,23,y,roger.goon@company.com,canada
+3,rgoon,Roger,Goon,23,y,roger.goon@home.com,canada
